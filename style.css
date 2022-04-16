@@ -108,3 +108,9 @@ h5{
     line-height: 1.85rem;
     height: 10vh;
 }
+
+@media only screen and (max-width: 400px) {
+    .paris-studio{
+        padding: 5px 10px;
+    }
+}
